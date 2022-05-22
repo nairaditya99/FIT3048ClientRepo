@@ -1,0 +1,41 @@
+.navbkg{
+    background-color: #1E2022;
+}
+
+.whitetext:link {
+    color: white;
+}
+
+.whitetext{
+    color: whitesmoke;
+}
+
+.whitetext:hover {
+    color: white;
+    font-weight: bolder;
+}
+
+.align-right {
+    text-align: right ;
+}
+
+.custombutton {
+    float: right;
+    color: black;
+    top:15px;
+    right: 30px;
+}
+
+.move-down {
+    top:15px;
+}
+
+.br {
+    line-height: 10px;
+}
+
+.SubmitButton {
+    width: 30%;
+    height: 15%;
+    align-content: center;
+}
